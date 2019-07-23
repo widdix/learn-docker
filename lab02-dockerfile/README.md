@@ -43,3 +43,10 @@ docker run -d --rm -p 8080:80 workshop:latest
 ```
 
 And visit `http://localhost:8080` on your machine.
+
+# Help
+
+* Dockerfile instruction [COPY](https://docs.docker.com/engine/reference/builder/#copy)
+* Dockerfile instruction [RUN](https://docs.docker.com/engine/reference/builder/#run)
+* Docker CLI [build](https://docs.docker.com/engine/reference/commandline/build/)
+* Docker CLI [run](https://docs.docker.com/engine/reference/commandline/run/)
