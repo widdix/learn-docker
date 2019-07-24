@@ -9,7 +9,8 @@ Build a custom Docker image that serves a static website using nginx.
 Make sure you are starting from the Lab 02 directory `lab02-dockerfile`.
 
 ```
-cp lab02-dockerfile/starting-point/Dockerfile Dockerfile
+cd lab02-dockerfile
+cp starting-point/Dockerfile Dockerfile
 ```
 
 Extend the Dockerfile with the following instructions.
