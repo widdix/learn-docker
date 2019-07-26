@@ -27,3 +27,7 @@ Install Docker:
     * [Others](https://docs.docker.com/install/linux/docker-ce/binaries/)
 
 You are now ready for the first lab.
+
+## More Labs
+
+We offer AWS workshops tailored to your needs. See [widdix/learn-*](https://github.com/widdix?q=learn-) for more labs.
